@@ -1,4 +1,4 @@
-sumOfEvenFibonachis = ()=>{
+const sumOfEvenFibonachis = ()=>{
     /* RETURNS THE SUM OF EVEN FIBONACHI NOT GREATER THAN 4000000 */ 
 
     let fibonachiArray = [1,2]  /*HOLDS THE GENERATED FIBONACHI*/
